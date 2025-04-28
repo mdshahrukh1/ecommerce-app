@@ -30,6 +30,3 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, ()=> console.log('Server started on PORT : '+ port));
-
-//asifshahrukh4
-// Password : zcXJvxQU2eFr7b1K
